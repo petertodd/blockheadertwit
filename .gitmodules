@@ -1,0 +1,3 @@
+[submodule "python-bitcoinrpc"]
+	path = python-bitcoinrpc
+	url = git://github.com/jgarzik/python-bitcoinrpc.git
